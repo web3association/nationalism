@@ -1,0 +1,11 @@
+# Recommended usage
+
+Civic nationalism is most suitable for newly formed, mixed or institution-based states that prioritise political inclusion, legal equality and flexibility over ancestral or cultural continuity.
+
+Civic nationalism is most suitable for nation-states where there is no strong long-established ancestral population seeking to preserve itself as the defining core of the nation, and where there is also less emphasis on preserving a historically continuous culture or heritage in a fixed form. It is better suited to newly formed nation-states, settler societies, highly mixed populations or political unions where the main basis for national membership is shared institutions, laws, civic responsibilities and political values rather than ancestry or inherited culture.
+
+Because civic nationalism prioritises an inclusive political framework, it is most appropriate where the goal is to build a nation around equal citizenship and broad legal membership rather than around preserving a specific ancestral or cultural continuity. This can make it particularly useful in countries that want a flexible and adaptive national identity, or in contexts where economic integration, labour mobility and institutional cohesion are more important than historical identity preservation.
+
+Civic nationalism may also be more suitable for states that want to function as open economic zones or internationally connected societies, especially where attracting talent, labour and investment is a major priority. However, because civic nationalism allows national identity and culture to change more easily over time, it may still require relatively strict immigration control if a society wants to slow the rate of demographic or cultural change. In addition, if joining the nation is relatively easy, policymakers may need to be more cautious around welfare access, free-riding risks and the long-term incentives created by the citizenship system.
+
+Overall, civic nationalism is best used where political inclusion, administrative simplicity, legal equality and institutional flexibility are prioritised more highly than preserving a long-established ancestral population or historically fixed culture.

@@ -2,69 +2,81 @@
 
 * [Overview](README.md)
 
-## Foundations of nationalism and national identity
+## Understanding nations and nationalism
 
-* [What is Nationalism?](foundations-of-nationalism-and-national-identity/what-is-nationalism/README.md)
-  * [Other forms of nationalism](foundations-of-nationalism-and-national-identity/what-is-nationalism/other-forms-of-nationalism.md)
-* [Group identity & group differences](foundations-of-nationalism-and-national-identity/group-identity-and-group-differences.md)
-* [National culture](foundations-of-nationalism-and-national-identity/national-culture.md)
+* [Nations, states and nation-states](understanding-nations-and-nationalism/nations-states-and-nation-states.md)
+* [What nationalism seeks to preserve: institutions, culture and people](understanding-nations-and-nationalism/what-nationalism-seeks-to-preserve-institutions-culture-and-people.md)
+* [Civic, cultural and ancestral nationalism: an overview](understanding-nations-and-nationalism/civic-cultural-and-ancestral-nationalism-an-overview.md)
+* [Related forms of nationalism and terminology](understanding-nations-and-nationalism/related-forms-of-nationalism-and-terminology.md)
 
-## Self-determination, rights and group boundaries
+## National identity, culture and population change
 
-* [Individual vs collective priorities in political systems](self-determination-rights-and-group-boundaries/individual-vs-collective-priorities-in-political-systems.md)
-* [Self-determination rights](self-determination-rights-and-group-boundaries/self-determination-rights.md)
-* [Group boundaries, association and disassociation and exclusion](self-determination-rights-and-group-boundaries/group-boundaries-association-and-disassociation-and-exclusion.md)
-* [Understanding discrimination, prejudice & racism](self-determination-rights-and-group-boundaries/understanding-discrimination-prejudice-and-racism.md)
-* [Forms of oppression](self-determination-rights-and-group-boundaries/forms-of-oppression.md)
+* [Ancestry, genetics, heritage and cultural identity](national-identity-culture-and-population-change/ancestry-genetics-heritage-and-cultural-identity.md)
+* [National culture](national-identity-culture-and-population-change/national-culture.md)
+* [Cultural continuity, transmission and change](national-identity-culture-and-population-change/cultural-continuity-transmission-and-change.md)
+* [Demographic change: migration, births, deaths and intermarriage](national-identity-culture-and-population-change/demographic-change-migration-births-deaths-and-intermarriage.md)
+* [Assimilation, integration and multiculturalism](national-identity-culture-and-population-change/assimilation-integration-and-multiculturalism.md)
 
-## Demographics, cultural diversity and migration
+## Self-determination, rights and legitimate boundaries
 
-* [How demographics can change](demographics-cultural-diversity-and-migration/how-demographics-can-change.md)
-* [Most problematic group differences](demographics-cultural-diversity-and-migration/most-problematic-group-differences.md)
-* [Monocultural vs multicultural societies](demographics-cultural-diversity-and-migration/monocultural-vs-multicultural-societies.md)
-* [Approaches for national membership, citizenship and immigration](demographics-cultural-diversity-and-migration/approaches-for-national-membership-citizenship-and-immigration.md)
+* [Individual rights and collective interests](self-determination-rights-and-legitimate-boundaries/individual-rights-and-collective-interests.md)
+* [Self-determination: principles, scope and limits](self-determination-rights-and-legitimate-boundaries/self-determination-principles-scope-and-limits.md)
+* [Membership boundaries and freedom of association](self-determination-rights-and-legitimate-boundaries/membership-boundaries-and-freedom-of-association.md)
+* [Discrimination, prejudice, racism and equal treatment](self-determination-rights-and-legitimate-boundaries/discrimination-prejudice-racism-and-equal-treatment.md)
+* [Oppression, internal dissent and minority protection](self-determination-rights-and-legitimate-boundaries/oppression-internal-dissent-and-minority-protection.md)
 
-## Civic Nationalism
+## Three models of national membership
 
-* [Understanding civic nationalism](civic-nationalism/understanding-civic-nationalism.md)
-* [Civic citizenship](civic-nationalism/civic-citizenship.md)
-* [Advantages & disadvantages](civic-nationalism/advantages-and-disadvantages.md)
-* [Recommended usage](civic-nationalism/recommended-usage.md)
+* [Civic nationalism](three-models-of-national-membership/civic-nationalism.md)
+* [Cultural nationalism](three-models-of-national-membership/cultural-nationalism.md)
+* [Ancestral nationalism](three-models-of-national-membership/ancestral-nationalism.md)
+* [Mixed models](three-models-of-national-membership/mixed-models.md)
 
-## Cultural Nationalism
+## Immigration, citizenship and the rights of residents
 
-* [Understanding cultural nationalism](cultural-nationalism/understanding-cultural-nationalism.md)
-* [Cultural citizenship](cultural-nationalism/cultural-citizenship.md)
-* [Advantages & disadvantages](cultural-nationalism/advantages-and-disadvantages.md)
-* [Recommended usage](cultural-nationalism/recommended-usage.md)
+* [Immigration policy: scale, selection and duration](immigration-citizenship-and-the-rights-of-residents/immigration-policy-scale-selection-and-duration.md)
+* [Residence, citizenship and national belonging](immigration-citizenship-and-the-rights-of-residents/residence-citizenship-and-national-belonging.md)
+* [Naturalisation and civic or cultural citizenship tests](immigration-citizenship-and-the-rights-of-residents/naturalisation-and-civic-or-cultural-citizenship-tests.md)
+* [Basic rights, public services and contribution-based benefits](immigration-citizenship-and-the-rights-of-residents/basic-rights-public-services-and-contribution-based-benefits.md)
+* [Voting, representation and eligibility for public office](immigration-citizenship-and-the-rights-of-residents/voting-representation-and-eligibility-for-public-office.md)
+* [Descent-based membership: boundaries and contested cases](immigration-citizenship-and-the-rights-of-residents/descent-based-membership-boundaries-and-contested-cases.md)
 
-## Ancestral Nationalism
+## Governance, cohesion and national policy
 
-* [Understanding ancestral nationalism](ancestral-nationalism/understanding-ancestral-nationalism.md)
-* [Ancestral group membership boundaries](ancestral-nationalism/ancestral-group-membership-boundaries.md)
-* [Ancestral group verification process](ancestral-nationalism/ancestral-group-verification-process/README.md)
-  * [Official records & historical documents](ancestral-nationalism/ancestral-group-verification-process/official-records-and-historical-documents.md)
-  * [Genetic testing](ancestral-nationalism/ancestral-group-verification-process/genetic-testing/README.md)
-    * [Genetic data collection methods](ancestral-nationalism/ancestral-group-verification-process/genetic-testing/genetic-data-collection-methods.md)
-    * [Genetic analysis approaches](ancestral-nationalism/ancestral-group-verification-process/genetic-testing/genetic-analysis-approaches.md)
-* [Advantages & disadvantages](ancestral-nationalism/advantages-and-disadvantages.md)
-* [Recommended usage](ancestral-nationalism/recommended-usage.md)
+* [Constitutional authority and the distribution of political power](governance-cohesion-and-national-policy/constitutional-authority-and-the-distribution-of-political-power.md)
+* [Language, education, heritage and cultural policy](governance-cohesion-and-national-policy/language-education-heritage-and-cultural-policy.md)
+* [Social cohesion, conflict and institutional trust](governance-cohesion-and-national-policy/social-cohesion-conflict-and-institutional-trust.md)
+* [Public resources, economic policy and service capacity](governance-cohesion-and-national-policy/public-resources-economic-policy-and-service-capacity.md)
+* [Security, foreign influence and public accountability](governance-cohesion-and-national-policy/security-foreign-influence-and-public-accountability.md)
 
-## Citizenship, migrant rights and political participation
+## Territorial self-government and institutional alternatives
 
-***
+* [Grounds for territorial self-government](territorial-self-government-and-institutional-alternatives/grounds-for-territorial-self-government.md)
+* [Local communities and voluntary associations](territorial-self-government-and-institutional-alternatives/local-communities-and-voluntary-associations.md)
+* [Devolution, federalism and regional autonomy](territorial-self-government-and-institutional-alternatives/devolution-federalism-and-regional-autonomy.md)
+* [Special jurisdictions, free association and independent statehood](territorial-self-government-and-institutional-alternatives/special-jurisdictions-free-association-and-independent-statehood.md)
 
-* [Decisions that shape a nation-state](decisions-that-shape-a-nation-state.md)
-* [Basic rights for migrants](basic-rights-for-migrants.md)
-* [Should migrants receive citizenship and political membership?](should-migrants-receive-citizenship-and-political-membership.md)
+## Comparative evaluation and competing arguments
 
-## Territory, autonomy and self-government
+* [How should nationalist models be evaluated?](comparative-evaluation-and-competing-arguments/how-should-nationalist-models-be-evaluated.md)
+* [Comparing continuity, inclusion, freedom and political equality](comparative-evaluation-and-competing-arguments/comparing-continuity-inclusion-freedom-and-political-equality.md)
+* [Comparing feasibility, costs, resilience and unintended consequences](comparative-evaluation-and-competing-arguments/comparing-feasibility-costs-resilience-and-unintended-consequences.md)
+* [Liberalism, nationalism and the critiques](comparative-evaluation-and-competing-arguments/liberalism-nationalism-and-the-critiques.md)
+* [Context-dependent conclusions and mixed-model alternatives](comparative-evaluation-and-competing-arguments/context-dependent-conclusions-and-mixed-model-alternatives.md)
 
-* [Grounds for territorial self-government](territory-autonomy-and-self-government/grounds-for-territorial-self-government.md)
-* [Territorial approaches](territory-autonomy-and-self-government/territorial-approaches.md)
+## Political transitions and future possibilities
 
-## Political change and the future of nation-states
+* [Constitutional change, consent and democratic legitimacy](political-transitions-and-future-possibilities/constitutional-change-consent-and-democratic-legitimacy.md)
+* [Existing citizenship, denaturalisation and security of residence](political-transitions-and-future-possibilities/existing-citizenship-denaturalisation-and-security-of-residence.md)
+* [Local experimentation and evaluation](political-transitions-and-future-possibilities/local-experimentation-and-evaluation.md)
+* [Digital identity, consultation and democratic participation](political-transitions-and-future-possibilities/digital-identity-consultation-and-democratic-participation.md)
+* [Pluralism between and within political communities](political-transitions-and-future-possibilities/pluralism-between-and-within-political-communities.md)
 
-* [Moving beyond liberalism](political-change-and-the-future-of-nation-states/moving-beyond-liberalism.md)
-* [Difficulties with changing political systems](political-change-and-the-future-of-nation-states/difficulties-with-changing-political-systems.md)
-* [A plurality of nationalist solutions](political-change-and-the-future-of-nation-states/a-plurality-of-nationalist-solutions.md)
+## Evidence and technical reference
+
+* [Documentary genealogy and historical records](evidence-and-technical-reference/documentary-genealogy-and-historical-records.md)
+* [Genetic ancestry inference: capabilities and limitations](evidence-and-technical-reference/genetic-ancestry-inference-capabilities-and-limitations/README.md)
+  * [Genetic data collection methods](evidence-and-technical-reference/genetic-ancestry-inference-capabilities-and-limitations/genetic-data-collection-methods.md)
+  * [Genetic analysis approaches](evidence-and-technical-reference/genetic-ancestry-inference-capabilities-and-limitations/genetic-analysis-approaches.md)
+* [Proposed ancestry verification: assumptions, errors and review](evidence-and-technical-reference/proposed-ancestry-verification-assumptions-errors-and-review.md)
+* [Sensitive data, consent and privacy](evidence-and-technical-reference/sensitive-data-consent-and-privacy.md)

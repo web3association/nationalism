@@ -210,4 +210,4 @@ Civic nationalism offers comparatively simple administration and flexibility but
 
 Cultural nationalism attempts stronger continuity while preserving a route for outsiders, but faces difficult assessment and enforcement problems.
 
-Ancestral nationalism directly protects descent-based membership but requires difficult boundary decisions, substantial transition work and acceptance of economic, legal and diplomatic costs.
+Ancestral nationalism directly protects descent-based membership but requires difficult boundary decisions and it has a substantial amount of transition work. Any transition would likely involve membership verification, legal and diplomacy costs.

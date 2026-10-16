@@ -13,7 +13,7 @@ The proposed boundary should be pragmatic, administratively workable and not exc
 * **Protect ancestral continuity** - The boundary should preserve the identity and continuity of the long-established ancestral group.
 * **Protect self-determination** - Distinct ancestral groups should have meaningful opportunities to govern themselves where clear collective support exists.
 * **Distinguish citizenship from political membership** - Citizenship, voting and representation may use different thresholds. Legal citizenship can be broader to reduce statelessness, while political membership can be stricter.
-* **Use proportionate restrictions** - \*\*\*\*Restrictions should be no stricter than necessary for the objective. Different requirements may apply to citizenship, voting, public office or migration decisions.
+* **Use proportionate restrictions** - Restrictions should be no stricter than necessary for the objective. Different requirements may apply to citizenship, voting, public office or migration decisions.
 * **Balance national and local authority** - Decisions better handled locally should not be controlled unnecessarily by national government. Local autonomy becomes especially important where some citizens have limited national influence.
 * **Establish clear rules** - The system should define ancestral ties, thresholds, evidence standards, mixed-ancestry cases and dispute procedures.
 * **Recognise evidence limitations** - Records and genetic tests should be treated as evidence with limitations rather than perfect proof. Decisions should be reviewable and open to challenge.

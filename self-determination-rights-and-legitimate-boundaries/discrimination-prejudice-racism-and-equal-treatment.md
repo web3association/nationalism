@@ -54,21 +54,27 @@ Source: [https://www.collinsdictionary.com/dictionary/english/racism](https://ww
 
 ## **The complexity of the term racism**
 
-A central question is whether racism includes every application of racial discrimination or prejudice, or only unjust applications.
+Definitions of racism that focus on the idea that some groups are inherently superior to others are among the least useful. Measurable differences and outcomes exist between groups, so the claim that every group is exactly the same is not compelling. One group may be taller on average, another may have a higher average IQ score, and another may have a higher prevalence of a gene that makes lactose easier to digest. Some of these traits may be considered desirable. Even small differences can therefore mean that one group ranks above another on a particular measure.
 
-A group may discriminate in order to retain self-determination and govern itself as a distinct nation. If racism includes every such distinction, the action would be racist under that definition.
+These differences may arise from genetics, environmental conditions, cultural influences or a combination of these factors. There is nothing wrong with proposing and demonstrating that particular differences are not genetic in origin. However, that is distinct from claiming that no differences have a genetic basis and that all differences can be resolved through environmental or cultural changes.
 
-If it refers only to unjust discrimination, the question becomes whether the distinction is justified. Excluded people may consider the restriction unfair because they cannot migrate to a country that admits others. They may also face rejection from several countries.
+Where differences exist, recognising them allows more effort to be directed towards understanding their effects and finding solutions to any resulting problems. Treating the identification of differences as inherently racist, and therefore wrong, is neither pragmatic nor consistent with the pursuit of truth. Whether a country welcomes these findings or not, it will face the consequences of its migration decisions if relevant differences are not properly understood.
 
-Nevertheless, the argument presented here is that prospective migrants’ preferences do not provide a compelling reason to override the preferences of ancestral populations in their own countries.
+More useful definitions of racism focus on discrimination, prejudice and antagonism directed towards people because of their race. These may appear in policies and rules or in people’s behaviour towards others.
 
-Forcing a population to accept groups it does not want to live with can be understood as oppression. The broad and conflicting use of “racism” has therefore reduced some of its value and precision.
+The central question is whether discrimination or prejudice can ever be justified and, if so, whether justified instances should fall within the definition of racism.
+
+For example, a group may discriminate to preserve its self-determination and govern itself as a distinct nation. If racism encompasses every race-based distinction of this kind, that action would be racist by definition. If racism refers only to unjust discrimination, however, the question becomes whether the particular distinction is justified.
+
+Those excluded may consider a restriction unfair because they cannot migrate to a country that admits other groups. They may also find themselves excluded by several countries. Nevertheless, the argument presented here is that prospective migrants’ preferences do not provide a compelling reason to override the preferences of ancestral populations in their own countries.
+
+Forcing a population to accept groups it does not want to live with can be understood as oppression. Applying the term “racism” broadly across these different and contested circumstances has therefore reduced some of its usefulness and precision.
 
 A proposed narrower definition is:
 
 > _**Unjust prejudice, discrimination or antagonism against a person or people on the basis of membership of a particular racial or ethnic group.**_
 
-Rather than trying to convince a wider audience to settle on this suggested definition, it may be more productive to ask which applications of discrimination or prejudice are just and unjust. Two proposed categories are preference discrimination and precautionary prejudice.
+Rather than seeking widespread agreement on this definition, it may be more productive to examine which applications of discrimination or prejudice are just and which are unjust. Two proposed categories for this discussion are **preference discrimination** and **precautionary prejudice**.
 
 
 

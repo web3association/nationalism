@@ -55,6 +55,7 @@
 * [Local communities and voluntary associations](territorial-self-government-and-institutional-alternatives/local-communities-and-voluntary-associations.md)
 * [Devolution, federalism and regional autonomy](territorial-self-government-and-institutional-alternatives/devolution-federalism-and-regional-autonomy.md)
 * [Special jurisdictions, free association and independent statehood](territorial-self-government-and-institutional-alternatives/special-jurisdictions-free-association-and-independent-statehood.md)
+* [Applying self-determination: powers, procedures and safeguards](territorial-self-government-and-institutional-alternatives/applying-self-determination-powers-procedures-and-safeguards.md)
 
 ## Comparative evaluation and competing arguments
 

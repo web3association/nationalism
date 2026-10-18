@@ -1,152 +1,180 @@
 # Grounds for territorial self-government
 
-Groups have stronger claims to political self-government when they form enduring historical or territorial communities and have substantial interests in preserving their identity, culture and institutions.However, wanting to preserve a group is not automatically the same as having a claim to govern a particular territory. The grounds for self-government, the extent of the authority sought and the position of other residents all need to be considered.
+Groups have stronger claims to self-government when they form enduring historical or territorial communities and have substantial interests in preserving their identity, culture, institutions or way of life. However, three questions should be distinguished:
+
+* Does the group have a legitimate interest in preserving something?
+* Does that interest justify recognised political authority?
+* Does it justify authority over a particular territory?
+
+A positive answer to one does not automatically settle the others.
 
 
 
-## **Why territorial self-government matters**
+## **What is being preserved?**
 
-Without meaningful territorial self-government, a community may have no way to decide who settles alongside it. New residents may be friendly, make positive contributions and avoid political involvement. Even then, their presence can substantially affect everyday life.
+Preservation can concern:
 
-Differences in language, social norms and cultural traditions may change the character of a place. If the historical community does not support those changes, it may feel required to accept a way of life it never democratically chose.
+* Ancestral continuity.
+* Language.
+* Religion.
+* Customs and traditions.
+* Historical institutions.
+* A relationship with a particular place.
+* A distinctive local economy.
+* A preferred way of life.
 
-Territorial self-government would allow communities to decide who may settle alongside them, restricting residence in a way comparable to national borders. This would reduce some individual choices while giving communities greater assurance that they can protect their preferred way of life. People could still lead prosperous lives where they currently reside or, if required to leave another group’s territory, where they are ancestrally from. Without meaningful autonomy, communities may face disputes, conflict and changes that undermine their everyday lives and cultural continuity.
-
-
-
-## **Collective autonomy and individual settlement**
-
-The central comparison is between:
-
-* Denying communities meaningful control over their future and requiring them to accept an unwanted way of life.
-* Limiting an individual’s ability to settle wherever they wish.
-
-Framed this way, the argument presented here favours territorial self-government. The freedom to choose where to live is desirable, but it does not amount to an unlimited entitlement to settle anywhere.
-
-Communities should have meaningful authority over their collective future. At the same time, self-determination does not remove the need to respect other people’s need for somewhere they can legally reside and call home.
+A community should explain which interests it seeks to protect and how the proposed arrangement would support them. Preservation does not require every practice or institution to remain unchanged. The objective may be to preserve the community’s ability to shape its own development rather than freeze its present characteristics. Its institutions should therefore provide a way for members to decide which changes represent legitimate development and which threaten continuity.
 
 
 
-## **Proportionality**
+## **Why territorial self-government can matter**
 
-Different interests may require different levels of autonomy. Preserving a language may require educational rights and support for cultural institutions. Protecting an established way of life may support a claim to local or regional self-government.
+People settling alongside a community can substantially affect its everyday environment even when they are friendly, contribute economically and do not participate in politics. Differences in language, social norms and cultural practices can change the character of a place. Where the historical community does not support those changes, it may regard them as an imposed way of life.
 
-In some circumstances, a stronger claim to independent statehood may arise. The question is what degree of authority is necessary to address the community’s concerns while respecting others affected. A legitimate interest in continuity does not automatically establish a need for independence if less extensive arrangements would be sufficient.
+Territorial self-government can give communities greater influence over development, institutions and local conditions. However, authority over land use or services does not automatically include authority over entry, residence or settlement. Those powers require separate consideration. The argument for collective autonomy is that people should have meaningful influence over their shared future. The corresponding difficulty is determining how that authority affects other people who already live in the territory or need somewhere they can legally reside.
 
 
 
-## **Distinct ancestral groups**
+## **Distinct ancestral populations**
 
-An enduring historical community with ancestral connections to a homeland may have a significant basis for seeking self-government. It may want to preserve:
+Indigenous and other long-established ancestral populations may seek self-determination to preserve their continuity within a homeland to which they have deep historical ties. Their interests may include:
 
-* Its continuity as a distinct group.
+* Continued existence as a distinct population.
 * Shared identity.
 * Culture and language.
 * Historical memory.
 * Institutions.
-* Its relationship with the land.
+* Relationships with ancestral land.
 
-Such a population may be indigenous to territory it historically controlled. However, an interest in preservation is not by itself a territorial claim. The claim becomes stronger when supported by:
+Ancestral populations have a particularly direct justification where the claim concerns their continuity in their own homeland. Nevertheless, a reason to preserve a population is not automatically a claim to every form of territorial authority.
 
-* Longstanding residence.
-* An enduring relationship with the land.
-* Historical political institutions.
-* The freely expressed preferences of people currently living there.
-
-Practical legitimacy also depends on whether self-government can be exercised without displacing others in a way that makes them stateless. A historical ancestral community may therefore have substantial grounds for self-government, while the appropriate extent of its authority still requires consideration of everyone living under that jurisdiction.
+A territorial claim becomes stronger where it is supported by longstanding residence, historical institutions, an enduring relationship with the land and the freely expressed preferences of people currently living there. Its implementation must also consider other residents and whether the proposed arrangement would leave anyone without secure legal belonging.
 
 
 
-## **Historical communities formed from several ancestral populations**
+## **Settler populations and established societies**
 
-Historical belonging does not necessarily have to be fixed permanently at the moment a state was founded. Later arrivals and their descendants may become integral to the community through sustained participation and shared experience. Several ancestral populations may be content to continue living together because of their deep connections to a shared homeland, language, culture and institutions. Those connections may have developed since the nation-state’s creation or over many generations. Such a historical community may nevertheless prefer not to admit additional groups. It may want to preserve the identity and culture it has developed over an extended period.
+Settler populations may develop distinct societies over generations. Their claims can concern both the society they created and continuity of its founding population. Relevant interests include Infrastructure and land development, institutions, historical contributions, cultural traditions or a shared way of life.
+
+A society may have been established by one ancestral population or several. Its members may also have ancestral homelands elsewhere. These circumstances distinguish a claim based on an established society from a claim concerning an ancestral population in its original homeland.
+
+
+
+## **Historical communities formed from several populations**
+
+Historical belonging need not be fixed permanently at the moment a state is founded. Later arrivals and their descendants may become integral to a community through sustained participation and shared experience.
+
+Several ancestral populations may develop deep connections to the same homeland, language, culture and institutions. Such a community may wish to remain together while declining further expansion. Its interest is preserving the historical society it has developed, even where that society does not consist of one ancestral population.
+
+
+
+## **Linguistic and historically self-governing communities**
+
+Internal communities may seek autonomy because their language or institutions differ from those of the wider population. A linguistic community may want control over education and public language use. A historically self-governing community may seek to maintain or restore earlier institutions.
+
+These claims can overlap with ancestry, culture, religion or territory, but their immediate purpose may be narrower than establishing a separate state.
 
 
 
 ## **Religious communities**
 
-Religious communities may seek autonomy to maintain institutions, religious practices and a shared way of life. An enduring territorial connection can contribute to a case for local or regional self-government. A community seeking to sustain a religious identity is different from a government imposing religious conformity. Voluntary institutions or regional autonomy may be appropriate ways to preserve religious life.
+Religious communities may have grounds for autonomy where their institutions, practices and local connections are longstanding. Autonomy could help preserve religious education, places of worship, community institutions, traditions and particular aspects of communal life.
 
-A separate state requires broader justification concerning territory, historical institutions, democratic support and the rights of everyone affected. Minorities, converts, non-believers and dissenters need protection. These issues are discussed in **Oppression, internal dissent and minority protection**.
+The significance of the location matters. Stewardship of a historic building, religious complex or small area may be more appropriate than authority over an entire region.
 
+Newly formed religions would need to establish sustained traditions and meaningful local roots before making comparable territorial claims.
 
-
-## **Less suitable grounds for territorial government**
-
-Groups can form around many characteristics or preferences, including aesthetics, height, athleticism, intelligence, personality, interests and hobbies. These are generally weak grounds for dividing a political community or creating a state. They do not ordinarily establish a shared homeland, historical territorial claim or need for collective self-government.
-
-A preference to disassociate from other residents does not automatically create a legitimate right to govern territory. Using these characteristics to determine citizenship or political rights could create unnecessary exclusion within a historical community.
-
-Such preferences may support voluntary association or residential communities, but they do not ordinarily explain why the group requires public authority over land or other residents.
+A community’s religious identity is also different from compulsory religious conformity. The protection of converts, non-believers and internal dissenters is discussed in **Oppression, internal dissent and minority protection**.
 
 
 
-## **Distinct ancestries and established societies**
+## **Cultural communities**
 
-Territorial claims become particularly difficult where one population has ancestral ties to a homeland and another has built a longstanding society there.
+Cultural groups may have strong relationships with buildings, landscapes or places where important traditions are practised. These connections need not depend on shared ancestry. The appropriate arrangement might involve ownership, protected access, stewardship, joint management or authority over specified activities.
 
-Protecting an ancestral population often also protects the society it developed in its own homeland.
+Cultural significance supports a claim to the powers needed for preservation. It does not automatically establish jurisdiction over everyone living nearby.
 
-Protecting a distinct society focuses on the culture, institutions and infrastructure created by the people who built it, even where those people have ancestral homelands elsewhere.
 
-The position presented here gives greater priority to an ancestral group in its own homeland because it has nowhere else to go. However, this does not eliminate the interests of people who have developed another society over generations.
+
+## **Geographically distinct communities**
+
+Islands, remote settlements and other geographically distinct communities may seek autonomy because their circumstances differ substantially from those of the wider population. Their justification may concern accessibility, practical administration, locally appropriate services, distance from national institutions and distinct economic conditions.
+
+They do not necessarily need a separate ancestry or culture to demonstrate a practical case for greater local authority.
+
+
+
+## **Preference-based communities**
+
+People may form communities around shared beliefs, friendships, work, interests or preferred ways of living. These preferences can support meaningful opportunities for association and communal organisation.
+
+They provide a weaker initial basis for territorial powers that exclude other residents from governance. Such communities should ordinarily begin by managing their own institutions and assets. More extensive political authority may later be justified where it is necessary to sustain locally financed services or other established community functions.
+
+Over time, enduring cultural or historical characteristics might strengthen a territorial claim. Duration alone would not establish entitlement. The group would still need to explain what requires protection and why less extensive arrangements are inadequate. In exceptional circumstances, a sufficiently developed claim could eventually support separate statehood.
+
+
+
+## **Characteristics that do not ordinarily establish territorial claims**
+
+Groups can form around characteristics such as aesthetics, height, athleticism, intelligence, personality, interests and hobbies. These may provide reasons for voluntary association, but they do not ordinarily establish a shared homeland or a need for public authority over territory.
+
+For example, a friendship group whose members share a specific trait like high intelligence may prefer to live together. That preference alone does not explain why it should receive exclusive political control over local resources or other residents.
+
+Using such characteristics to determine citizenship or political rights could create unnecessary exclusion within an established historical community.
+
+
+
+## **Proportionality**
+
+Different preservation interests require different powers. Protecting a language may require educational authority and support for cultural institutions. Maintaining a particular community may require collective ownership or local services. Protecting a broader historical way of life may justify regional autonomy. Independent statehood is one possible outcome, not the inevitable starting point.
+
+The relevant question is the least extensive authority capable of meeting the demonstrated need, with opportunities for greater autonomy where lesser arrangements prove insufficient.
+
+
+
+## **Competing historical claims**
+
+Several populations can have credible connections to the same territory. This is particularly difficult where an ancestral population and a longstanding settler society occupy the same country. Particular weight is given to ancestral populations in their own homelands as they have nowhere else to go.
+
+However, that priority does not eliminate the interests of people who have built institutions, infrastructure and a distinct society over generations.
 
 
 
 ## **Australia as an example**
 
-The British colonised Australia and created a distinct society. Aboriginal peoples were the indigenous population living there before colonisation.
+British settlers colonised Australia and developed a distinct society, while Aboriginal peoples inhabited the land before colonisation. Suppose Aboriginal peoples sought self-determination and custody over land taken historically.
 
-Suppose Aboriginal peoples wanted to pursue self-determination and reclaim custody of land taken historically. Would it be fair to require all descendants of the British settler population to leave immediately? The answer depends on the historical circumstances.
+Requiring all descendants of the settler population to leave immediately would involve different considerations from removing settlers who had arrived only ten or twenty years earlier. Recent settlers would be less likely to have developed a distinct society or substantial infrastructure. After centuries, the social and material interests are more extensive.
 
-If colonisation had occurred only ten or twenty years earlier, requiring settlers to leave would be more reasonable. They would be less likely to have created a distinct society with its own culture and heritage, and less infrastructure and land development would have occurred.
-
-In reality, settler populations have lived there for hundreds of years and built a substantial society. As time passes, more infrastructure is created, land is developed and a distinct culture and heritage can emerge. This makes the territorial question more complex.
-
-
-
-## **Indigenous priority and settler contributions**
-
-The complexity of asking a large population to leave does not mean Aboriginal peoples cannot pursue self-determination. The argument presented here is that their claims should take precedence because they have the longest ancestral connection to the land and Australia is their only homeland.
-
-They could therefore arguably claim custody of some or all of the territory to govern independently if that is their preference. At the same time, settler populations have contributed substantial effort to infrastructure and land development. It would not be fair or reasonable simply to transfer those contributions to another group without considering compensation.
+Indigenous claims should take priority over other groups because of their deeper ancestral connection and the absence of another homeland. But there is also a need to recognise and consider the contributions of the populations that built the subsequent society.
 
 
 
 ## **Compensation and reparations**
 
-A proposal requiring settlers to leave would likely produce disputes and conflict. One suggested way of making a settlement more amicable would be to compensate them for infrastructure they developed. Such an arrangement would also need to account for deductions associated with warranted reparations for historical losses, including land, infrastructure and life.
+Offering compensation to settler populations for the infrastructure that has been built could be one possible element of a negotiated settlement. Any calculation would also need to consider warranted reparations for historical losses of land, infrastructure and life.
 
-However, purchasing all infrastructure built over generations could be highly impractical. The scale of investment may be too large for the indigenous population to compensate fully.
+However, purchasing all infrastructure developed over generations could be financially impractical. A more limited or gradual arrangement might involve particular areas being purchased, transferred through reparations or placed under a negotiated form of self-government. Support could be provided through one-off or continuing arrangements.
 
-
-
-## **Partial and gradual territorial arrangements**
-
-Self-determination does not necessarily require reclaiming all land and infrastructure. Aboriginal peoples could identify particular territories over which they want custody. Land could be purchased or transferred through warranted reparations.
-
-The process might take place gradually over many years rather than through an immediate national settlement. Additional support could be provided as a one-off arrangement or over time to address historical losses.
+Compensation addresses some material consequences. It does not, by itself, establish that compulsory displacement is justified. That requires the separate assessment described in **Applying self-determination: powers, procedures and safeguards**.
 
 
 
-## **Compromise in historical territorial disputes**
+## **Negotiated and shared arrangements**
 
-Protecting ancestral groups in their homelands can justify giving their claims priority. However, it is not reasonable to expect established settler populations to abandon generations of contributions without consideration. An amicable settlement may require:
+Historical disputes may require compromise rather than a single exclusive territorial outcome. Possible arrangements include:
 
-* Compromise.
-* Territorial differentiation.
-* Compensation.
-* Reparations.
-* Gradual change.
+* Shared institutions.
+* Joint stewardship.
+* Authority divided by subject.
+* Negotiated boundaries.
+* Regional autonomy.
+* Gradual transfers of responsibility.
 
-Complex historical outcomes are therefore more likely to be managed through negotiated arrangements over time than through sudden demands.
+The powers actually needed should be examined before assuming that one group must govern every aspect of the territory.
 
 
 
-## **Choosing between national and subnational solutions**
+## **From a claim to an arrangement**
 
-Ancestral nationalism is presented in this analysis as a compelling way to protect historical identities and cultures. However, its successful adoption cannot be assumed. A referendum or other democratic process may reject a national transition.
-
-Alternative territorial arrangements therefore need to be considered alongside, or instead of, a nationwide change. They may protect existing societies or provide opportunities to experiment with new ones.
-
-The available approaches range from local communities to fully sovereign states, with different levels of legal protection, economic flexibility and political authority.
+Recognising a community’s interest is different from deciding which powers it should exercise. The following pages describe the available institutional forms. The application, assessment and safeguarding framework is set out in **Applying self-determination: powers, procedures and safeguards**.

@@ -44,6 +44,7 @@
 ## Governance, cohesion and national policy
 
 * [Constitutional authority and the distribution of political power](governance-cohesion-and-national-policy/constitutional-authority-and-the-distribution-of-political-power.md)
+* [Direct democracy and decisions about the nation](governance-cohesion-and-national-policy/direct-democracy-and-decisions-about-the-nation.md)
 * [Language, education, heritage and cultural policy](governance-cohesion-and-national-policy/language-education-heritage-and-cultural-policy.md)
 * [Social cohesion, conflict and institutional trust](governance-cohesion-and-national-policy/social-cohesion-conflict-and-institutional-trust.md)
 * [Public resources, economic policy and service capacity](governance-cohesion-and-national-policy/public-resources-economic-policy-and-service-capacity.md)

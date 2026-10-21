@@ -108,7 +108,7 @@ They have the closest connection to what they developed and experience of how it
 
 ## **Distinct ancestries and distinct societies**
 
-Protecting an ancestry often means protecting both the people and the society they built in their homeland.
+Protecting ancestry often means protecting both the people and the society they built in their homeland.
 
 Protecting a society focuses more directly on its institutions and way of life, although this may also require protecting the self-determination of the ancestral population that built it.
 

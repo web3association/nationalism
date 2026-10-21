@@ -54,7 +54,7 @@ Its risks include exclusion of minorities and immigrants.
 
 ## **Why political membership matters**
 
-Political power determines which representatives are elected, how government operates and whose interests it prioritises. Those who hold political power can influence the country’s direction and the laws and policies it adopts.
+Political power determines which representatives are elected, how the government operates and whose interests it prioritises. Those who hold political power can influence the country’s direction and the laws and policies it adopts.
 
 A nation can experiment with more individual-leaning or collective-leaning policies. An ancestral nationalist society could still adopt laws influenced by individualism or universalism.
 

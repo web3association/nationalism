@@ -211,7 +211,7 @@ A verified person might receive a credential recording the result. If the refere
 
 ## **Illustrative costs**
 
-An rough population-testing cost might be around $10 to $40 per person. For a population of ten million, that would amount to approximately $100 million–$400 million. The wider cost would also depend on:
+A rough population-testing cost might be around $10 to $40 per person. For a population of ten million, that would amount to approximately $100 million to $400 million. The wider cost would also depend on:
 
 * Testing methods.
 * Population size.

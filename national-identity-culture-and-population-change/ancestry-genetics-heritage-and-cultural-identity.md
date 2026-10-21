@@ -78,6 +78,6 @@ Its openness depends on how narrowly culture is defined and whether cultural mem
 
 **Ancestral nationalism** seeks to protect the long-established ancestral population and can therefore also help protect its genetics.
 
-Because that population predominantly defined the national culture, protecting it can often be the most reliable way to preserve its heritage and culture.
+Because that population predominantly defines the national culture, protecting it can often be the most reliable way to preserve its heritage and culture.
 
 Ancestral nationalism should be the most reliable approach for preserving continuity of group identity, although even this model still does not prevent slow and gradual change through intermixing.

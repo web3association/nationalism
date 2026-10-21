@@ -1,6 +1,6 @@
 # Devolution, federalism and regional autonomy
 
-Local and regional self-government can provide more substantial authority than private association while remaining within an existing state. These arrangements allow territories to make some decisions independently rather than relying entirely on national government. They can protect cultural or ancestral continuity, accommodate different preferences and support institutional experimentation.
+Local and regional self-government can provide more substantial authority than private associations while remaining within an existing state. These arrangements allow territories to make some decisions independently rather than relying entirely on the national government. They can protect cultural or ancestral continuity, accommodate different preferences and support institutional experimentation.
 
 
 
@@ -18,13 +18,13 @@ Federalism constitutionally divides authority between a central government and f
 
 ## **Devolution and local self-government**
 
-Devolution distributes authority from central government to regional or local institutions. A more decentralised arrangement can allow communities to maintain different institutions, traditions and priorities within a shared national framework. This may be useful where people disagree about the preferred balance between civic, cultural and ancestral principles.
+Devolution distributes authority from the central government to regional or local institutions. A more decentralised arrangement can allow communities to maintain different institutions, traditions and priorities within a shared national framework. This may be useful where people disagree about the preferred balance between civic, cultural and ancestral principles.
 
 
 
 ## **Ancestral autonomy within civic states**
 
-Historical populations may seek regional authority where national government remains civic nationalist. Autonomous regions or federal units could use democratic processes to determine whether the local ancestral population wants stronger self-government or particular protections. Possible objectives include:
+Historical populations may seek regional authority where the national government remains civic nationalist. Autonomous regions or federal units could use democratic processes to determine whether the local ancestral population wants stronger self-government or particular protections. Possible objectives include:
 
 * Ancestral and cultural continuity.
 * Language preservation.

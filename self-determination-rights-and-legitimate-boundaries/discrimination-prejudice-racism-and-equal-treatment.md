@@ -80,39 +80,53 @@ Rather than seeking widespread agreement on this definition, it may be more prod
 
 ## **Preference discrimination**
 
-Individuals differ within racial groups, and observable differences also exist between groups. These can include hair, eye colour, facial shape, bone structure and average height. Individuals or groups may discriminate because:
+Preference discrimination describes distinctions arising from people’s preferences about association, identity and the kind of community they want to maintain.
 
-* Their experiences with a group were predominantly negative.
+Such preferences need not depend on a claim that every outsider is dangerous, inferior or incapable. A person or community may simply prefer an existing relationship or way of life.
+
+People may want to preserve their ancestral identity, cultural traditions or inherited physical characteristics. These can include patterns of hair colour, eye colour, facial shape, bone structure and average height, while recognising that individuals vary within every population.
+
+Preferences may also concern differences in behaviour, practices or social expectations that people regard as problematic or do not want to introduce into their community. Reasons people give for these preferences may include:
+
+* Their experiences with members of a group were predominantly negative.
 * Trusted people reported negative experiences.
 * Reliable data identify differences in crime or other outcomes by age, ethnicity, religion or another characteristic.
 
-Discrimination may also arise from personal or collective preferences rather than a claim that every excluded individual is harmful.
+Personal accounts and group-level statistics do not establish how every individual behaves. Nevertheless, they may influence people’s perceptions of compatibility, risk and whether they want to accept a particular association.
+
+Preference discrimination can also arise without a claim of danger or misconduct. People may simply prefer the familiarity and continuity of their existing community rather than wish to expand or change it. Whether acting on that preference is justified depends on the context, particularly the distinction between personal association, national admission and the treatment of established residents.
 
 
 
 **Individual preferences**
 
-Individuals can choose whom to date, marry, reproduce with or spend time with. These choices may involve race. Someone may want children who resemble them, for example. An individual might also avoid a group they consider statistically more likely to commit crime, such as by crossing the road. Preventing individuals from making such personal choices would force them into associations they do not want.
+Individuals choose whom to date, marry, have children with and spend time with. These decisions may reflect attraction, cultural familiarity, shared ancestry or a desire to maintain particular family traditions. An individual might also avoid a group they consider statistically more likely to commit crime, such as by crossing the road.
+
+Preventing such personal choices would force people into associations they do not want. Respect for others does not require making every personal relationship equally available to everyone.
 
 
 
 **Private-group preferences**
 
-Private groups may form around friendship, recreation or other shared interests. They can choose whom they spend time with. Preventing that choice would constitute oppression by those imposing unwanted association.
+Friends and private communities may organise around shared experiences, identities or preferences. They may value familiarity and continuity rather than seek unlimited expansion.
+
+Their decision not to include someone does not necessarily express hostility. A group can respect outsiders while preferring to preserve its existing character. Preventing that choice would constitute oppression by those imposing unwanted association.
 
 
 
 **National-population preferences**
 
-Nations may want to preserve their ancestral identity, culture or heritage. They may prefer to live by themselves or accept only certain other groups. A nation-state can decide which groups, if any, may migrate into the country. If national populations cannot discriminate according to these preferences, they may be forced to live with people the majority does not want to admit.
+The same reasoning extends to national populations. A population may prefer limited immigration, particular forms of migration or no additional discretionary settlement because it values its ancestral identity, culture or existing way of life.
 
-This is presented here as a form of group oppression that could be imposed through an ideology such as liberalism. The distinct responsibilities of territorial government, compared with private association, are discussed in **Membership boundaries and freedom of association**.
+The prospective migrants’ desire to enter, or the economic benefits they might provide, do not override that populations preferences.
+
+However, there are differences between states and private groups. States exercise authority over people who did not individually choose the arrangement. Selecting future entrants is therefore different from disassociating from existing citizens or residents due to risks such as making someone stateless. Preventing this national choice would constitute a form of group oppression which might be imposed due to ideologies like liberalism. The distinct responsibilities of territorial government, compared with private association, are discussed in **Membership boundaries and freedom of association**.
 
 
 
 ## **Where discrimination becomes harmful**
 
-The argument for preference-based association does not imply that discrimination is appropriate in every context.
+Discrimination can be more harmful when it is used within a society where people have already been accepted.
 
 
 
@@ -134,9 +148,9 @@ An individual or group may know little about another group’s language, behavio
 
 Where someone has no prior knowledge beyond the fact that another person belongs to a different group, they may make decisions intended to protect their safety.
 
-It is not considered fair to require people to disregard safety when they perceive a potential threat. Individuals and private groups may act on such precautions.
+It would not be fair to expect people to disregard their safety when they perceive a potential threat. Individuals and private groups may act on such precautions.
 
-A national population may also want sufficient information and evidence of minimal risk before accepting migration from a group it knows little about.
+A national population may also want sufficient information and evidence of minimal risk before accepting migration from a group that it knows little about.
 
 However, this does not make the same approach appropriate in public groups or organisations. In those settings, the individuals already live in the same country and should have been vetted before admission. Public groups and organisations should therefore give individuals the benefit of the doubt where they lack personal knowledge.
 
@@ -148,7 +162,7 @@ An in-group approach allows the existing population to select which groups may l
 
 An out-group approach prioritises outsiders’ preferences over those of the established population. If the ancestral population does not want to live with certain groups, this approach forces it to accept an unwanted outcome.
 
-Out-group preference may persist where an ideology such as liberalism imposes it or external groups compel acceptance. These can also be understood as an ideological form of internal oppression or as a form of externally imposed oppression.
+Out-group preference may persist where an ideology such as liberalism imposes it or when external groups can compel acceptance. These can be respectively understood as an ideological form of internal oppression or as a form of externally imposed oppression.
 
 
 
@@ -156,10 +170,10 @@ Out-group preference may persist where an ideology such as liberalism imposes it
 
 Anti-discrimination laws can protect people who have been accepted into a society. A majority may support admitting particular groups while a minority opposes them. Equal-treatment rules protect admitted residents from that minority’s discrimination.
 
-Organisations and public groups should not discriminate against residents in ordinary professional, consumer or public participation settings. The distinction proposed here is between:
+Organisations and public groups should not discriminate against residents in ordinary professional, consumer or public participation settings. The proposed distinction is therefore:
 
-* The nation’s authority to decide whom to admit.
-* The treatment of people while they are accepted as residents.
+* **Admission** - The nation determines the scale and conditions of entry and settlement.
+* **Treatment after admission -** Accepted residents receive protection and fair access to ordinary social and economic life.
 
 
 

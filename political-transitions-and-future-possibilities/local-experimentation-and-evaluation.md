@@ -119,7 +119,7 @@ Local trials can contain some failures more effectively than nationwide implemen
 
 ## **Economic experiments**
 
-Regional autonomy could create opportunities to test economic policies alongside political arrangements.Examples in the source include land value taxation and demurrage-based currencies.
+Regional autonomy could create opportunities to test economic policies alongside political arrangements. Examples include land value taxation and demurrage-based currencies.
 
 
 

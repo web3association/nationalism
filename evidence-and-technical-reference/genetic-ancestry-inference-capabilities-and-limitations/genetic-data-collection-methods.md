@@ -1,6 +1,6 @@
 # Genetic data collection methods
 
-Genetic data collection methods measure DNA and produce markers or sequences. These laboratory methods provide the raw information used by later ancestry, lineage and kinship analyses. The service prices below reproduce those listed in the supplied documentation rather than updated quotations.
+Genetic data collection methods measure DNA and produce markers or sequences. These laboratory methods provide the raw information used by later ancestry, lineage and kinship analyses.
 
 
 

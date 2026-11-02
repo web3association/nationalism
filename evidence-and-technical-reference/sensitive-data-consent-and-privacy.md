@@ -51,7 +51,7 @@ People should understand whether they can request deletion or limitations on pro
 
 ## **Separation from other databases**
 
-The source identifies separation from unrelated medical, policing and commercial databases as the safest model. Combining them could create risks of:
+Separating from unrelated medical, policing and commercial databases can help with creating a safer model. Combining them could create risks of:
 
 * Surveillance.
 * Discrimination.
@@ -72,7 +72,7 @@ Secondary use should require explicit legal authorisation and strong oversight. 
 
 ## **Public health opportunities and governance**
 
-The source proposes that population testing could support health screening alongside ancestry analysis. Possible benefits include information about disease risk, medication response, carrier status and inherited conditions.
+Population testing could support health screening alongside ancestry analysis. Possible benefits include information about disease risk, medication response, carrier status and inherited conditions.
 
 Those opportunities do not remove the need for rules about how medical findings are handled or whether ancestry data are reused. The capabilities are described in **Genetic ancestry inference: capabilities and limitations**.
 
@@ -127,4 +127,4 @@ Appeals and oversight should cover not only membership outcomes but also errors 
 
 ## **Privacy as part of feasibility**
 
-Privacy is not separate from the practical viability of the proposed system. Poor governance could produce public distrust, resistance and harmful secondary uses. The source therefore treats data collection, storage, access, retention, deletion and secondary use as core design questions alongside test accuracy and administrative cost.
+Privacy is not separate from the practical viability of the proposed system. Poor governance could produce public distrust, resistance and harmful secondary uses. Data collection, storage, access, retention, deletion and secondary use are some of the core design questions to resolve alongside test accuracy and administrative cost.

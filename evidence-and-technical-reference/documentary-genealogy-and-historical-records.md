@@ -222,4 +222,4 @@ For example, strong historical documentation combined with a genetic match could
 
 ## **Limits as a primary verification method**
 
-Documents may establish a lineage without proving that the lineage belongs to the same broader genetic ancestral population. For this reason, the source does not regard records alone as a sufficiently reliable primary method for verifying every individual’s inclusion in a genetically defined historical population. Their principal value is establishing relationships, residence, historical rootedness and supporting evidence.
+Documents may establish a lineage without proving that the lineage belongs to the same broader genetic ancestral population. For this reason, records alone are likely not a sufficiently reliable primary method for verifying every individual’s inclusion in a genetically defined historical population. Their principal value is establishing relationships, residence, historical rootedness and supporting evidence.

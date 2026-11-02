@@ -65,7 +65,7 @@ A transition may encounter people whose ancestral position is unclear. Reasons m
 * Mixed ancestry.
 * Uncertain links to another country.
 
-The proposed approach is that people retain legal status while evidence is reviewed. Possible arrangements discussed in the source include transitional citizenship, permanent residence or another protected legal category. Uncertainty should not be treated as proof that a person belongs nowhere.
+The proposed approach is that people retain legal status while evidence is reviewed. Possible arrangements include transitional citizenship, permanent residence or another protected legal category. Uncertainty should not be treated as proof that a person belongs nowhere.
 
 
 
@@ -127,15 +127,7 @@ The proposed response to disruption from visa revocation is to provide sufficien
 
 ## **Political rights and legal residence**
 
-A transition might distinguish citizenship from political membership. Some people could retain legal belonging while having more limited national voting or office-holding rights. Such an arrangement may reduce statelessness but create unequal political status. The stricter the national participation rules, the more important the source considers:
-
-* Local autonomy.
-* Clearly defined rights.
-* Appeals.
-* Due process.
-* Limits on national power.
-
-The proposed boundaries are examined in **Descent-based membership: boundaries and contested cases**.
+A transition might distinguish citizenship from political membership. Some people could retain legal belonging while having more limited national voting or office-holding rights. Such an arrangement may reduce statelessness but create unequal political status. The stricter the national participation rules, the more important that local autonomy, clearly defined rights, appeals, due process and limits on national power become. The proposed boundaries are examined in **Descent-based membership: boundaries and contested cases**.
 
 
 

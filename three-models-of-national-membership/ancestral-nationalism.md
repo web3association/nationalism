@@ -74,7 +74,7 @@ The following summarises the advantages and disadvantages identified in this ana
 * **Separation of residence and citizenship** - Migrants may live and work under residence arrangements without automatically joining the political nation, retaining greater flexibility over future migration policy.
 * **Long-term membership predictability** - Once boundaries and verification arrangements exist, citizenship inherited through descent can be simpler than repeated assessments of cultural or ideological commitment.
 * **Reduced electorate transformation and external influence** - Narrower membership limits the ability of governments to reshape the electorate rapidly and reduces direct national political participation by external communities.
-* **Preservation of inherited characteristics and global diversity** - The source presents ancestral membership as protecting distinct populations, their inherited traits and the diversity between historical nations.
+* **Preservation of inherited characteristics and global diversity** - Ancestrally defined membership can help with protecting distinct populations, their inherited traits and the diversity between historical nations.
 * **Intergenerational orientation and attachment** - Descent-based identity can strengthen concern for descendants, family formation, land, heritage and the defence of the homeland.
 
 

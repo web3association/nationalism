@@ -131,7 +131,7 @@ Migration, emigration and intermarriage may also change population composition. 
 
 ## **The conceptual preservation comparison**
 
-The original preservation comparison is intended as a conceptual estimate, not a guarantee of outcomes. It compares how different nationalist models may preserve civic institutions, culture and the historical population.
+The following preservation comparison is intended as a conceptual estimate, not a guarantee of outcomes. It compares how different nationalist models may preserve civic institutions, culture and the historical population.
 
 <figure><img src="../.gitbook/assets/nationalism-preservation-comparison (1).png" alt=""><figcaption></figcaption></figure>
 

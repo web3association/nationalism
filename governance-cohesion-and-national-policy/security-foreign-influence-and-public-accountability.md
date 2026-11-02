@@ -138,7 +138,7 @@ Such activity may influence domestic politics while also creating risks for resi
 
 **Diaspora attachments and public office**
 
-Residents and citizens may retain family, emotional, economic or political connections abroad. These connections can persist across generations. They may become especially significant during diplomatic disputes, security crises or conflicts involving countries of origin. The document’s discussion of voting and representation identifies concerns that these connections may affect foreign aid, diplomacy or military decisions. Those arguments are presented in **Voting, representation and eligibility for public office**.
+Residents and citizens may retain family, emotional, economic or political connections abroad. These connections can persist across generations. They may become especially significant during diplomatic disputes, security crises or conflicts involving countries of origin. Concerns can emerge around how these connections may affect foreign aid, diplomacy or military decisions. Those arguments are presented in **Voting, representation and eligibility for public office**.
 
 
 

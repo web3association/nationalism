@@ -26,7 +26,7 @@ Those decisions are addressed in **Descent-based membership: boundaries and cont
 
 ## **Evidence sources**
 
-One potential suggested system could uses two broad forms of evidence. Documentary evidence can establish lineage, residence, family continuity and legal status. Genetic evidence can estimate biological ancestry and compare an individual with reference populations. Neither is perfect by itself. The source therefore proposes using them together.
+One potential suggested system could uses two broad forms of evidence. Documentary evidence can establish lineage, residence, family continuity and legal status. Genetic evidence can estimate biological ancestry and compare an individual with reference populations. Both of these evidence sources could be used together.
 
 
 

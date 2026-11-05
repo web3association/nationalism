@@ -2,6 +2,6 @@
 
 <figure><img src=".gitbook/assets/nationalism-header.png" alt=""><figcaption></figcaption></figure>
 
-This analysis explores the ideas behind nationalism by identifying and comparing three distinct forms: civic, cultural and ancestral nationalism. It examines how each defines national membership, preserves continuity, and approaches migration, citizenship, demographics and self-determination.
+Exploring nationalism and three distinct forms of nationalism including civic, cultural and ancestral. Each is examined in terms of how it defines national membership, preserves continuity and approaches migration, citizenship, demographics and self-determination.
 
-Different nationalist models can suit different societies. This choice is influenced by whether a nation prioritises political inclusion, cultural preservation or ancestral continuity. Different types of nationalism can also be adopted in a number of ways, a nation-state does not need to adopt just one solution. This analysis explores those different approaches and solutions and the reasons why a nation might adopt them.
+Different forms of nationalism may suit different societies, depending on whether they prioritise political inclusion, cultural preservation or ancestral continuity. A nation-state can combine these approaches in different ways rather than adopt just one. The different approaches and the possible solutions they offer are explored.

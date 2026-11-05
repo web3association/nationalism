@@ -27,11 +27,27 @@ A community should explain which interests it seeks to protect and how the propo
 
 
 
+## **The case for freedom of movement**
+
+Freedom of movement can give people greater opportunities to pursue employment, education, family relationships, safety and a preferred way of life. It can allow people to leave communities whose institutions or expectations they no longer support and seek places where they feel more comfortable.
+
+Receiving communities may also value newcomers for their skills, contributions, relationships and cultural exchange. Some communities actively prefer openness and welcome people from different backgrounds.
+
+These interests deserve consideration alongside a community’s interest in continuity. The question is how to provide meaningful opportunities for movement and personal choice while allowing established communities to influence their own development.
+
+
+
 ## **Why territorial self-government can matter**
 
-People settling alongside a community can substantially affect its everyday environment even when they are friendly, contribute economically and do not participate in politics. Differences in language, social norms and cultural practices can change the character of a place. Where the historical community does not support those changes, it may regard them as an imposed way of life.
+People have different preferences about the communities in which they live. Some value substantial cultural mixing and openness. Others place greater importance on living among people who share their language, ancestry, traditions, religion or outlook. Preferences also differ within the same ancestral population and can change over time.
 
-Territorial self-government can give communities greater influence over development, institutions and local conditions. However, authority over land use or services does not automatically include authority over entry, residence or settlement. Those powers require separate consideration. The argument for collective autonomy is that people should have meaningful influence over their shared future. The corresponding difficulty is determining how that authority affects other people who already live in the territory or need somewhere they can legally reside.
+Settlement can affect a community’s everyday environment even when newcomers are friendly, contribute economically and do not participate in politics. Changes in language, institutions, social expectations and settlement patterns can alter the character of a place. Where an established community opposes those changes but has no meaningful influence over them, its members may experience the outcome as an imposed way of life.
+
+Territorial self-government can provide a means for communities to express and practise their preferences in areas with which they have an established connection. Its purpose may include protecting ancestral continuity, language, culture, heritage or institutions while retaining the ability to decide how those things develop.
+
+Different arrangements could accommodate different preferences. Some communities might welcome substantial settlement, while others might prefer more selective or limited admission. This could give people opportunities to seek communities whose arrangements they support and reconsider their choices as their preferences change.
+
+However, authority over land use or public services does not automatically establish authority over entry, residence or settlement. Those powers require separate justification, particularly where other people already have homes, property or substantial connections within the territory. The broader importance of selective admission is discussed in **Membership boundaries and freedom of association**.
 
 
 
@@ -124,11 +140,25 @@ Using such characteristics to determine citizenship or political rights could cr
 
 
 
+## **Access to a secure home and access to every territory**
+
+A meaningful opportunity to live securely and pursue a preferred way of life does not necessarily require unrestricted settlement in every territory. A person may have substantial opportunities within one country or region without being able to settle in every other community.
+
+Where people have viable alternatives, defined settlement boundaries may help different communities govern themselves and preserve what matters to them. This reasoning can be considered at national, regional and local levels, although the justification and consequences may differ at each scale.
+
+The availability of alternatives must be assessed in practice. Ancestral origins elsewhere do not necessarily mean that someone has citizenship, housing, safety or a realistic opportunity to live there. Nor does an alternative location necessarily replace family relationships, an established home or a connection to a particular place.
+
+Restrictions may therefore impose a smaller burden where they concern prospective settlement and leave meaningful alternatives available. They require stronger justification where they disrupt existing homes, divide families, prevent essential access or leave people without secure belonging.
+
+The decision should weigh why the community needs the boundary against how it would affect other people. Both allowing settlement and restricting it need to be justified.
+
+
+
 ## **Proportionality**
 
-Different preservation interests require different powers. Protecting a language may require educational authority and support for cultural institutions. Maintaining a particular community may require collective ownership or local services. Protecting a broader historical way of life may justify regional autonomy. Independent statehood is one possible outcome, not the inevitable starting point.
+Different preservation interests require different powers. Protecting a language may require educational authority and support for cultural institutions. Maintaining a particular community may require collective ownership, local services or influence over development. Protecting a broader historical way of life may support a case for regional autonomy.
 
-The relevant question is the least extensive authority capable of meeting the demonstrated need, with opportunities for greater autonomy where lesser arrangements prove insufficient.
+The starting point should be the least extensive authority capable of meeting the demonstrated need, with a route to greater autonomy where lesser arrangements prove insufficient. Independent statehood is one possible outcome, while local or regional self-government may provide a lasting solution.
 
 
 

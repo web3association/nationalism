@@ -37,7 +37,13 @@ Political self-determination can operate without a separate territory. Members l
 
 **Territorial self-determination**
 
-Territorial authority concerns a defined area. Its powers could include land use, development, public services, taxation, resource management and property or occupancy arrangements. More extensive arrangements might include entry, residence or settlement powers. These should be justified separately rather than assumed to accompany territorial government. Responsibilities for environmental protection and shared infrastructure may remain with the wider state or be jointly exercised.
+Territorial authority concerns a defined area. Its powers could include land use, development, public services, taxation, resource management and property or occupancy arrangements.
+
+More extensive arrangements might include authority over entry, temporary residence or permanent settlement. These powers should be considered individually and justified by reference to the community’s purpose. Territorial self-government does not necessarily require all of them.
+
+A community might allow visitors, transit, trade and temporary workers while limiting new permanent settlement. Another might permit broad residence while reserving specified institutions or decisions to community members.
+
+Responsibilities for environmental protection, essential access and shared infrastructure may remain with the wider state or be jointly exercised.
 
 
 
@@ -102,6 +108,27 @@ Fees could cover administration or discourage speculative applications. However,
 
 
 
+## **Entry, residence, settlement and political membership**
+
+Access to a territory should not be treated as a single entitlement or restriction. An arrangement should distinguish:
+
+* Visiting.
+* Transit and access to essential routes.
+* Employment or study.
+* Temporary residence.
+* Permanent settlement.
+* Property ownership.
+* Community membership.
+* Participation in territorial government.
+
+Permission for one need not automatically confer the others. For example, someone could work temporarily in an area without becoming a permanent resident or political member.
+
+Any proposed restriction should identify which activities it covers, whom it affects and why it is needed. It should also address mixed households, family relationships, essential services and people whose circumstances change.
+
+Rules for prospective newcomers should be distinguished from changes affecting established residents. Recognising a community’s authority over future settlement does not, by itself, justify removing people who already live there.
+
+
+
 ## **Membership, residence, ownership and governance**
 
 These are distinct statuses. A community member may live elsewhere. A resident may not belong to the group. A property owner may be neither a resident nor a member. The arrangement should explain which rights and responsibilities follow from each status. Questions include:
@@ -111,6 +138,18 @@ These are distinct statuses. A community member may live elsewhere. A resident m
 * How do non-member residents participate in public decisions affecting them?
 * Does property ownership create any governance entitlement?
 * What obligations apply to residents and owners?
+
+
+
+## **Meaningful choice between communities**
+
+Different communities could adopt different arrangements concerning openness, ancestry, culture and participation. This could allow people to seek environments that better reflect their preferences while giving established communities meaningful influence over their own development.
+
+Choice depends on more than the formal possibility of moving. Relevant considerations include eligibility, housing, employment, affordability, family connections and access to essential services. Agreement with a community’s principles may be relevant to admission but would not itself satisfy an ancestry requirement.
+
+People should also be able to reconsider their preferences, leave an association or advocate changes through agreed procedures. Community continuity should not depend on permanent agreement with every decision made by its institutions.
+
+The objective is to make both community self-government and individual choice practical, while clearly defining the responsibilities arising from existing residence, membership and property arrangements.
 
 
 

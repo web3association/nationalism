@@ -145,6 +145,10 @@ These are distinct statuses. A community member may live elsewhere. A resident m
 
 Different communities could adopt different arrangements concerning openness, ancestry, culture and participation. This could allow people to seek environments that better reflect their preferences while giving established communities meaningful influence over their own development.
 
+The ability to leave a community has less practical value when a person has no realistic opportunity to live and participate elsewhere. This reduces the value of disassociation; it does not give the person authority to join another group against that group’s wishes.
+
+Communities that want to welcome newcomers should also be able to express and practise that preference. Where the person and the receiving community both want the association, they should have meaningful opportunities to live together under that community’s arrangements. This allows communities to choose different levels of openness while giving people opportunities to find a community willing to accept them.
+
 Choice depends on more than the formal possibility of moving. Relevant considerations include eligibility, housing, employment, affordability, family connections and access to essential services. Agreement with a community’s principles may be relevant to admission but would not itself satisfy an ancestry requirement.
 
 People should also be able to reconsider their preferences, leave an association or advocate changes through agreed procedures. Community continuity should not depend on permanent agreement with every decision made by its institutions.

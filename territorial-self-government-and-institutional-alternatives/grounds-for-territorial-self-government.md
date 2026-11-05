@@ -31,6 +31,8 @@ A community should explain which interests it seeks to protect and how the propo
 
 Freedom of movement can give people greater opportunities to pursue employment, education, family relationships, safety and a preferred way of life. It can allow people to leave communities whose institutions or expectations they no longer support and seek places where they feel more comfortable.
 
+People do not choose where they are born, yet their birthplace can strongly influence their opportunities. Being able to move can give them greater choice over where they work, build relationships and raise a family. Mobility can also help address skills shortages and support international collaboration through a more flexible labour force.
+
 Receiving communities may also value newcomers for their skills, contributions, relationships and cultural exchange. Some communities actively prefer openness and welcome people from different backgrounds.
 
 These interests deserve consideration alongside a community’s interest in continuity. The question is how to provide meaningful opportunities for movement and personal choice while allowing established communities to influence their own development.

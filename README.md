@@ -1,6 +1,6 @@
 # Overview
 
-<figure><img src=".gitbook/assets/nationalism-background.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/nationalism-header.png" alt=""><figcaption></figcaption></figure>
 
 This analysis explores the ideas behind nationalism by identifying and comparing three distinct forms: civic, cultural and ancestral nationalism. It examines how each defines national membership, preserves continuity, and approaches migration, citizenship, demographics and self-determination.
 
